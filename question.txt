@@ -1,0 +1,7 @@
+hi|hi
+hello|hello
+how are you|I'm fine
+thank you|You are welcome!
+What is the average group size for the trip?|20
+What languages do Sri Lankans speak?|Hey, The three main languages of Sri Lanka are:Sinhalese, Tamil, English
+What is the capital of France?|Paris

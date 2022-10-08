@@ -1,0 +1,15 @@
+else if(command.equalsignorecase("check wheather today")){
+string description = checkweather();
+reply = reply + "" +description;
+what is capital of england?
+what is weather today
+What languages do Sri Lankans speak?
+What languages do Sri Lankans speak?
+What is the climate like in Sri Lanka?
+what is the capital of france?
+What languages do Sri Lankans speak?
+what languages do sri lankan speak?
+what languages do sri lankans speak?
+Currency
+What currency is used in Sri Lanka?
+what languages do sri lankans speak?
